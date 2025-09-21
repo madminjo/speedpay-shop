@@ -1,0 +1,31 @@
+{
+  "currency": "KGS",
+  "telegram": {
+    "channel": "https://t.me/speedpayshop",
+    "bot": "https://t.me/speedpayshopbot",
+    "bot_username": "speedpayshopbot",
+    "admin_chat_id": "5037778442"  
+  },
+  "telegram_proxy_url": "https://speedpay-ss-api.fixplayfixplayff.workers.dev/order",
+  "requisites": [
+    { "label": "MBank (KGS)", "value": "Карта **** **** **** 1234" },
+    { "label": "MegaCom", "value": "+996 XXX XXX XXX" },
+    { "label": "Balance/Комментарий", "value": "Speedpay Shop, номер заказа в комментарии" }
+  ],
+  "highlights": [
+    "Быстрая обработка заказов",
+    "Поддержка в Telegram 24/7",
+    "Гарантия возврата при ошибке",
+    "Скидки на крупные пакеты"
+  ],
+  "news": [
+    { "date": "2025-09-15", "title": "Открытие Speedpay Shop", "text": "Запустили новый магазин!" },
+    { "date": "2025-09-20", "title": "Снижение цен на алмазы", "text": "Минус 10% на все пакеты до 30.09" }
+  ],
+  "products": [
+    { "id": 101, "title": "Алмазы — 100", "subtitle": "Быстрая доставка", "price": 150 },
+    { "id": 102, "title": "Алмазы — 310", "subtitle": "Выгодный набор", "price": 430 },
+    { "id": 103, "title": "Алмазы — 520", "subtitle": "Топ продаж", "price": 700 },
+    { "id": 104, "title": "Алмазы — 1060", "subtitle": "Максимальная выгода", "price": 1350 }
+  ]
+}
